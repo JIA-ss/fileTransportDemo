@@ -1,0 +1,3 @@
+/Users/sjs/Documents/git_Pro/fileTransportDemo/build/CMakeFiles/rebuild_cache.dir
+/Users/sjs/Documents/git_Pro/fileTransportDemo/build/CMakeFiles/edit_cache.dir
+/Users/sjs/Documents/git_Pro/fileTransportDemo/build/CMakeFiles/ServerDemo.dir

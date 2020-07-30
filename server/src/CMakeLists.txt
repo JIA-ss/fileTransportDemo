@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 2.8)
+project(ServerExe)
+add_definitions(-std=c++11)
+add_definitions(-static-libgcc -static-libstdc++)
+
+include_directories(${PROJECT_SOURCE_DIR}/../../tools/include)
+add_executable(ServerDemo server.cpp ../../tools/src/file.cpp ../../etc/config.h)
+# 多文件例子
+#aux_source_directory(<dir> <variable>)    #dir下的文件都储存为 variable
+#eg
+#aux_source_directory(. DIR_SRCS)
+#add_executable(ServerExe ${DIR_SRCS})
+
+#多级目录
+# 添加 math 子目录
+#add_subdirectory(math)
+# 添加链接库
+#target_link_libraries(Demo MathFunctions)
+#这需要把math下的文件编译成MathFunctions的静态库
+
+
+
