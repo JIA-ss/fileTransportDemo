@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/sjs/Documents/git_Pro/file_simple_struct
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sjs/Documents/git_Pro/file_simple_struct
