@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/ClientDemo.dir/client.cpp.o CMakeFiles/ClientDemo.dir/clientUpload.cpp.o CMakeFiles/ClientDemo.dir/file.cpp.o  -o ClientDemo -rdynamic 

@@ -1,3 +1,0 @@
-/Users/sjs/Documents/git_Pro/file_simple_struct/CMakeFiles/rebuild_cache.dir
-/Users/sjs/Documents/git_Pro/file_simple_struct/CMakeFiles/edit_cache.dir
-/Users/sjs/Documents/git_Pro/file_simple_struct/CMakeFiles/ClientDemo.dir
